@@ -1,6 +1,11 @@
 # -stevila-v-besede-excel
 pretvarjanje števil v besede za excel
 
+
+
+
+
+-----
 Licence:
 This is free and unencumbered software released into the public domain.
 
