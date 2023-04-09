@@ -1,4 +1,4 @@
-# -stevila-v-besede-excel
+# Stevila v besede za Excel
 Pretvarjanje števil v besede za Excel VBA.
 
 Program je predvsem namenjen za uporabo spajanje dokumentov kjer je potrebno v pogodbe zapisati zneske z besedo. Na primer število 1200,22 zapiše kot "tisoč dvesto 22/100"
