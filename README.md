@@ -1,5 +1,5 @@
 # Števila v besede za Excel
-### Prenesi [SpellNumber.xlsm](https://github.com/HostXnine/Stevila-v-besede-za-Excel/releases/download/v1.0.0/SpellNumber.xlsm) ali uvozi modul [SpellNumber.bas](https://github.com/HostXnine/Stevila-v-besede-za-Excel/releases/download/v1.0.0/SpellNumber.bas) v Excel.
+### Prenesi modul [SpellNumber.bas](https://github.com/HostXnine/Stevila-v-besede-za-Excel/releases/download/v1.0.0/SpellNumber.bas) in ga uvozi v Excel ali uporabi [SpellNumber.xlsm](https://github.com/HostXnine/Stevila-v-besede-za-Excel/releases/download/v1.0.0/SpellNumber.xlsm).
 
 Pretvarjanje števil v besede za Excel VBA.
 
