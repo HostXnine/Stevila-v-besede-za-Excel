@@ -18,7 +18,7 @@ Dodajte modul v Excel ([lahko si pomagate s temi navodili](https://support.micro
 
 ### Navodila za zporabo funkcije:
 Uporaba funkcije SpellNumber v posameznih celicah
-1. Vnesite formulo = SpellNumber(A1), v celico, kjer želite prikazati napisanih številko, kjer je A1 celice, ki vsebujejo števila ga želite pretvoriti. Lahko tudi ročno vnesite želeno vrednost na primer = SpellNumber(22.50).
+1. Vnesite formulo **=SpellNumber(A1)**, v celico, kjer želite prikazati napisanih številko, kjer je A1 celice, ki vsebujejo števila ga želite pretvoriti. Lahko tudi ročno vnesite želeno vrednost na primer = SpellNumber(22.50).
 
 2. Pritisnite Enter , da potrdite formulo.
 
