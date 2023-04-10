@@ -2,7 +2,7 @@
 ### Prenesi modul [SpellNumber.bas](https://github.com/HostXnine/Stevila-v-besede-za-Excel/releases/download/v1.0.0/SpellNumber.bas) in ga uvozi v Excel.
 
 Pretvarjanje števil v besede za Excel VBA.
-Na primer število 1200,22 zapiše kot "tisoč dvesto 22/100".
+Primer: število 1200,22 zapiše kot "tisoč dvesto 22/100".
 
 Modul za Excel je predvsem namenjen za uporabo pri spajanju dokumentov kjer je potrebno npr. v pogodbe zapisati zneske z besedo.  Res je da obstajajo rešitve za pretvorbo števil v Wordu, toda v določenih primerih Word narobe zapiše števila.
 
